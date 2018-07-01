@@ -47,6 +47,7 @@
 
 .register-link {
   font-size: 18px;
+  margin-bottom: 9px;
 }
 
 .registration-card {
@@ -83,10 +84,12 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  height: 271.42px;
 }
 
 .login-button {
   margin-top: 20px;
+  color: black;
 }
 
 .register-link-a {
@@ -97,6 +100,19 @@
 .login-button:hover {
   background-color: #A3BBAD;
   color: white;
+}
+
+.demo-button {
+  margin-left: 5px;
+}
+
+.demo-button:hover {
+  background-color: rgb(107, 161, 196);
+  color: white;
+}
+
+.login-button-margin {
+  margin-right: 5px;
 }
 
 .logout-button > .logout-button:hover {

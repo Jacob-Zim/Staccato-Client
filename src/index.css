@@ -6,6 +6,10 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+.registration-button {
+  color: black;
+}
+
 .registration-button:hover {
   background-color: #A3BBAD;
   color: white;

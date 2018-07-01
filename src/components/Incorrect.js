@@ -18,7 +18,7 @@ class Incorrect extends React.Component {
         <section className="response-section">
           <label className="incorrect-response">Sorry, your answer was incorrect...</label>
         </section>
-        <button onClick={() => {
+        <button className="next-button" onClick={() => {
           return this.props.dispatch(fetchQuestion(this.props.displayCorrect))
         }}>Next</button>
       </div>
