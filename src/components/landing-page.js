@@ -29,7 +29,7 @@ export function LandingPage(props) {
                         <LoginForm className="login" />
                         <div className="register-message">
                             <label className="register-link">Need to create an account? </label>
-                            <Link to="/register" className="register-link">Register</Link>
+                            <Link to="/register" className="register-link-a">Register</Link>
                         </div>
                     </Message>
                 </section>

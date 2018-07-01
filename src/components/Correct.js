@@ -18,7 +18,7 @@ class Correct extends React.Component {
                 <section className="response-section">
                     <label className="correct-response">Your answer was correct!</label>
                 </section>
-                <button onClick={ () => {
+                <button className="next-button" onClick={ () => {
                     return this.props.dispatch(fetchQuestion(this.props.displayCorrect))
                 }}>Next</button>
             </div>

@@ -6,6 +6,11 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+.registration-button:hover {
+  background-color: #A3BBAD;
+  color: white;
+}
+
 .app {
   
 }
@@ -61,6 +66,14 @@ button {
 
 .col-3, .col-4, .col-6, .col-8, .col-12 {
   width: 100%;
+}
+
+.registration-card > .message {
+  background-color: #A288A6;
+}
+
+.form-input > input {
+  background-color: rgb(235, 233, 177);
 }
 
 @media only screen and (min-width: 640px) {

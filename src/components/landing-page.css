@@ -89,6 +89,26 @@
   margin-top: 20px;
 }
 
+.register-link-a {
+  font-size: 18px;
+  color: white;
+}
+
+.login-button:hover {
+  background-color: #A3BBAD;
+  color: white;
+}
+
+.logout-button > .logout-button:hover {
+  background-color: lightcoral;
+  color: white;
+}
+
+.next-button:hover {
+  background-color: #A3BBAD;
+  color: white;
+}
+
 .register-message {
   text-align: center;
 }
@@ -119,6 +139,18 @@ h4 {
 .info-section {
   width: 100vw;
   margin: auto;
+}
+
+.title-section > .question-card {
+  background-color: #A288A6;
+}
+
+.login-section > .question-card {
+  background-color: #A288A6;
+}
+
+.info-block > .question-card {
+  background-color: rgb(235, 233, 177);
 }
 
 .info-block {

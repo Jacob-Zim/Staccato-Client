@@ -20,7 +20,7 @@ export function RegistrationPage(props) {
                     <h2 className="registration-title">Register for Staccato</h2>
                     <RegistrationForm className="registration-form" />
                     <span className="register-link">Already have an account? </span>
-                    <Link to="/" className="login-link" className="register-link">Login</Link>
+                    <Link to="/" className="login-link" className="register-link-a">Login</Link>
                 </Message>
             </div>
         </div>

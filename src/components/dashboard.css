@@ -15,6 +15,15 @@
   text-align: center;
 }
 
+.question-answer > .question-card {
+  background-color: #A288A6;
+}
+
+.submit-button:hover {
+  background-color: #A3BBAD;
+  color: white;
+}
+
 .dashboard-username, .dashboard-name {
   font-size: 30px;
   line-height: 1em;
