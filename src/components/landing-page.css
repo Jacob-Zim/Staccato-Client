@@ -94,11 +94,15 @@
 
 .register-link-a {
   font-size: 18px;
-  color: white;
+  color: blue;
+}
+
+.register-link-a:hover {
+  color: rgb(88, 17, 201);
 }
 
 .login-button:hover {
-  background-color: #A3BBAD;
+  background-color: rgb(87, 202, 135);
   color: white;
 }
 
@@ -121,7 +125,7 @@
 }
 
 .next-button:hover {
-  background-color: #A3BBAD;
+  background-color: rgb(87, 202, 135);
   color: white;
 }
 
@@ -175,6 +179,7 @@ h4 {
   text-align: center;
   height: 300px;
   padding: 20px;
+  padding-top: 40px;
 }
 
 /* 
