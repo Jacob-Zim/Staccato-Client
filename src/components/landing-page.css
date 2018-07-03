@@ -158,15 +158,15 @@ h4 {
 }
 
 .title-section > .question-card {
-  background-color: #A288A6;
+  background-color: rgb(226, 185, 231);
 }
 
 .login-section > .question-card {
-  background-color: #A288A6;
+  background-color: rgb(226, 185, 231);
 }
 
 .info-block > .question-card {
-  background-color: rgb(150, 125, 155);
+  background-color: rgb(226, 185, 231);
 }
 
 .info-block {
