@@ -74,8 +74,12 @@
 
   .question-answer {
     width: 90vw;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+  }
+
+  .bg2 {
+    height: 100vh;
   }
 
   .question {
