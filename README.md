@@ -31,16 +31,16 @@ This app is for anyone trying to learn the basics of music theory. It suggests q
 
 ## API
 
-###Questions are created, read, updated, and deleted globally through the questions router.
+Questions are created, read, updated, and deleted globally through the questions router.
 - GET /api/questions - get all questions
 - GET /api/questions/:id - get specific question
 - POST /api/questions - create a question
 - DELETE /api/questions/:id - delete specific question
 
-###User information is accessed from the user router.
+User information is accessed from the user router.
 - GET /users - returns all users
 
-####These endpoints are authenticated using JWT
+These endpoints are authenticated using JWT
 - POST /users/next - takes in result of answered question, places it 2n or 2(1) places away from head of list, returns new question at head
 - GET /users/first - returns the first question of a user
 - GET /users/history - returns the number of questions a user got correct and total answered
