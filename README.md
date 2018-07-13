@@ -31,7 +31,7 @@ This app is for anyone trying to learn the basics of music theory. It suggests q
 
 ## API
 
-####Questions are created, read, updated, and deleted globally through the questions router.
+###Questions are created, read, updated, and deleted globally through the questions router.
 - GET /api/questions - get all questions
 - GET /api/questions/:id - get specific question
 - POST /api/questions - create a question
