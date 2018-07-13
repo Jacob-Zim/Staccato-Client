@@ -8,6 +8,12 @@ presentation URL: https://docs.google.com/presentation/d/1Hh_dexhUuFX-mGzv-waDD4
 ## Project Summary
 This app is for anyone trying to learn the basics of music theory. It suggests questions based upon a spaced algorithm to help you focus on information you find difficult. We came about this idea based on both of our own experience learning music theory and decided to make an app to help others.
 
+### Landing Page
+![staccato-1](https://user-images.githubusercontent.com/16858183/42684217-50d4a968-8644-11e8-8c6e-44f0feb0734a.PNG)
+
+### Dashboard
+![staccato-2](https://user-images.githubusercontent.com/16858183/42684255-6788f3e4-8644-11e8-99c7-ff4b2f9b3cb1.PNG)
+
 ## Technology used
 -React
 -Redux
